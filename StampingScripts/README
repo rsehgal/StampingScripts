@@ -12,3 +12,4 @@ Param 10 : name of volume folder
 
 IMP NOTE : Volume folder containing all the PDF's should be copied  into this directory before executing this script.
 
+Prerequisites : This script requires "pdflatex" and "pdftk"
