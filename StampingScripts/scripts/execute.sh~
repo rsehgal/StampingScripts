@@ -1,0 +1,11 @@
+date >> DateTime.txt
+./doAll_A.sh 
+./doAll_B.sh 
+./doAll_C.sh 
+./doAll_D.sh 
+./doAll_E.sh 
+./doAll_F.sh 
+./doAll_G.sh 
+./doAll_I.sh
+./doAll_T.sh
+date >> DateTime.txt

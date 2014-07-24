@@ -1,0 +1,16 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{multido}
+\usepackage[hmargin=2.7cm,vmargin={2.5cm,2.7cm},bmargin=2.7cm,nohead,nofoot]{geometry}
+%\usepackage{fancyheadings}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\small{\textit{Proceedings of the DAE Symp. on Nucl. Phys. 58 (2013)}}}
+\chead{}
+\rhead{\thepage}
+\rfoot{\small{\textit{Available online at www.sympnp.org/proceedings}}}
+\renewcommand{\headrulewidth}{0pt} 
+\setcounter{page}{startpage} 
+\begin{document}
+\multido{}{2}{\vphantom{x}\newpage}
+\end{document}

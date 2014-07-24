@@ -1,0 +1,14 @@
+#Just call do stamping with 10 parameter. Details of Parameter are as follows:
+Param 1 : Start page number - 1 for A category
+Param 2 : Start page number - 1 for B category
+Param 3 : Start page number - 1 for C category
+Param 4 : Start page number - 1 for D category
+Param 5 : Start page number - 1 for E category
+Param 6 : Start page number - 1 for F category
+Param 7 : Start page number - 1 for G category
+Param 8 : Start page number - 1 for I category
+Param 9 : Start page number - 1 for T category
+Param 10 : name of volume folder
+
+IMP NOTE : Volume folder containing all the PDF's should be copied  into this directory before executing this script.
+

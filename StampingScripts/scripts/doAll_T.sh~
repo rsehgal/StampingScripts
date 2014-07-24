@@ -1,0 +1,2 @@
+cd testT
+./createSkeleton.sh 1001 #$pageNo

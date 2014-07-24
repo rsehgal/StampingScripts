@@ -1,0 +1,9 @@
+cp test/finalPapers/*.pdf 58
+cp testB/finalPapers/*.pdf 58
+cp testC/finalPapers/*.pdf 58
+cp testD/finalPapers/*.pdf 58
+cp testE/finalPapers/*.pdf 58
+cp testF/finalPapers/*.pdf 58
+cp testG/finalPapers/*.pdf 58
+cp testI/finalPapers/*.pdf 58
+cp testT/finalPapers/*.pdf 58
