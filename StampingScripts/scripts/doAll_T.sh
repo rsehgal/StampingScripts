@@ -1,2 +1,2 @@
 cd testT
-./createSkeleton.sh $1 #$pageNo
+./createSkeleton.sh $1 T #$pageNo

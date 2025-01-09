@@ -5,7 +5,7 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\lhead{\small{\textit{Proceedings of the DAE Symp. on Nucl. Phys. 58 (2013)}}}
+\lhead{\small{\textit{Proceedings of the DAE Symp. on Nucl. Phys. 68 (2024)}}}
 \chead{}
 \rhead{\thepage}
 \rfoot{\small{\textit{Available online at www.sympnp.org/proceedings}}}

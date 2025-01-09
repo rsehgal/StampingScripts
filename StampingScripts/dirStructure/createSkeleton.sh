@@ -2,6 +2,7 @@
 in=1
 #for i in {1..5} 
 i=$1
+$cat=$2
 paperNameNo=0
 FILES=`pwd`/sourcePdf/*.pdf
 #echo $FILES
@@ -14,7 +15,7 @@ do
   i=`expr $i + 1`
   f=`expr $i \\* $in`
   paperNameNo=`expr $paperNameNo + 1`
-  name=B$paperNameNo
+  name=$cat$paperNameNo
   #name=B$i
   sed s/startpage/$f/g pageNumbers.temp > pageNumber$name.tex
   pdflatex pageNumber$name

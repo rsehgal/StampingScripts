@@ -1,0 +1,1768 @@
+Copy SourcePDF files...
+Copying done
+./createSkeleton.sh: line 5: =A: command not found
+---A100----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---A101----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---A102----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---A103----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---A104----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---A105----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+---A106----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber7.pdf': No such file or directory
+---A107----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber8.pdf': No such file or directory
+---A108----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber9.pdf': No such file or directory
+---A109----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber10.pdf': No such file or directory
+---A10----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber11.pdf': No such file or directory
+---A110----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber12.pdf': No such file or directory
+---A111----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber13.pdf': No such file or directory
+---A112----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber14.pdf': No such file or directory
+---A113----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber15.pdf': No such file or directory
+---A114----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber16.pdf': No such file or directory
+---A115----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber17.pdf': No such file or directory
+---A116----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber18.pdf': No such file or directory
+---A117----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber19.pdf': No such file or directory
+---A118----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber20.pdf': No such file or directory
+---A119----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber21.pdf': No such file or directory
+---A11----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber22.pdf': No such file or directory
+---A120----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber23.pdf': No such file or directory
+---A121----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber24.pdf': No such file or directory
+---A122----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber25.pdf': No such file or directory
+---A123----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber26.pdf': No such file or directory
+---A124----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber27.pdf': No such file or directory
+---A125----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber28.pdf': No such file or directory
+---A126----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber29.pdf': No such file or directory
+---A127----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber30.pdf': No such file or directory
+---A128----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber31.pdf': No such file or directory
+---A129----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber32.pdf': No such file or directory
+---A12----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber33.pdf': No such file or directory
+---A130----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber34.pdf': No such file or directory
+---A131----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber35.pdf': No such file or directory
+---A132----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber36.pdf': No such file or directory
+---A133----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber37.pdf': No such file or directory
+---A134----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber38.pdf': No such file or directory
+---A135----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber39.pdf': No such file or directory
+---A136----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber40.pdf': No such file or directory
+---A137----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber41.pdf': No such file or directory
+---A138----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber42.pdf': No such file or directory
+---A139----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber43.pdf': No such file or directory
+---A13----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber44.pdf': No such file or directory
+---A140----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber45.pdf': No such file or directory
+---A141----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber46.pdf': No such file or directory
+---A142----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber47.pdf': No such file or directory
+---A143----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber48.pdf': No such file or directory
+---A144----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber49.pdf': No such file or directory
+---A145----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber50.pdf': No such file or directory
+---A146----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber51.pdf': No such file or directory
+---A147----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber52.pdf': No such file or directory
+---A148----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber53.pdf': No such file or directory
+---A14----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber54.pdf': No such file or directory
+---A15----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber55.pdf': No such file or directory
+---A16----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber56.pdf': No such file or directory
+---A17----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber57.pdf': No such file or directory
+---A18----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber58.pdf': No such file or directory
+---A19----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber59.pdf': No such file or directory
+---A1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber60.pdf': No such file or directory
+---A20----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber61.pdf': No such file or directory
+---A21----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber62.pdf': No such file or directory
+---A22----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber63.pdf': No such file or directory
+---A23----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber64.pdf': No such file or directory
+---A24----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber65.pdf': No such file or directory
+---A25----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber66.pdf': No such file or directory
+---A26----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber67.pdf': No such file or directory
+---A27----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber68.pdf': No such file or directory
+---A28----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber69.pdf': No such file or directory
+---A29----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber70.pdf': No such file or directory
+---A2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber71.pdf': No such file or directory
+---A30----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber72.pdf': No such file or directory
+---A31----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber73.pdf': No such file or directory
+---A32----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber74.pdf': No such file or directory
+---A33----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber75.pdf': No such file or directory
+---A34----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber76.pdf': No such file or directory
+---A35----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber77.pdf': No such file or directory
+---A36----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber78.pdf': No such file or directory
+---A37----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber79.pdf': No such file or directory
+---A38----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber80.pdf': No such file or directory
+---A39----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber81.pdf': No such file or directory
+---A3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber82.pdf': No such file or directory
+---A40----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber83.pdf': No such file or directory
+---A41----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber84.pdf': No such file or directory
+---A42----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber85.pdf': No such file or directory
+---A43----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber86.pdf': No such file or directory
+---A44----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber87.pdf': No such file or directory
+---A45----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber88.pdf': No such file or directory
+---A46----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber89.pdf': No such file or directory
+---A47----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber90.pdf': No such file or directory
+---A48----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber91.pdf': No such file or directory
+---A49----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber92.pdf': No such file or directory
+---A4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber93.pdf': No such file or directory
+---A50----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber94.pdf': No such file or directory
+---A51----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber95.pdf': No such file or directory
+---A52----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber96.pdf': No such file or directory
+---A53----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber97.pdf': No such file or directory
+---A54----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber98.pdf': No such file or directory
+---A55----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber99.pdf': No such file or directory
+---A56----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber100.pdf': No such file or directory
+---A57----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber101.pdf': No such file or directory
+---A58----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber102.pdf': No such file or directory
+---A59----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber103.pdf': No such file or directory
+---A5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber104.pdf': No such file or directory
+---A60----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber105.pdf': No such file or directory
+---A61----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber106.pdf': No such file or directory
+---A62----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber107.pdf': No such file or directory
+---A63----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber108.pdf': No such file or directory
+---A64----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber109.pdf': No such file or directory
+---A65----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber110.pdf': No such file or directory
+---A66----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber111.pdf': No such file or directory
+---A67----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber112.pdf': No such file or directory
+---A68----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber113.pdf': No such file or directory
+---A69----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber114.pdf': No such file or directory
+---A6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber115.pdf': No such file or directory
+---A70----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber116.pdf': No such file or directory
+---A71----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber117.pdf': No such file or directory
+---A72----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber118.pdf': No such file or directory
+---A73----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber119.pdf': No such file or directory
+---A74----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber120.pdf': No such file or directory
+---A75----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber121.pdf': No such file or directory
+---A76----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber122.pdf': No such file or directory
+---A77----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber123.pdf': No such file or directory
+---A78----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber124.pdf': No such file or directory
+---A79----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber125.pdf': No such file or directory
+---A7----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber126.pdf': No such file or directory
+---A80----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber127.pdf': No such file or directory
+---A81----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber128.pdf': No such file or directory
+---A82----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber129.pdf': No such file or directory
+---A83----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber130.pdf': No such file or directory
+---A84----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber131.pdf': No such file or directory
+---A85----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber132.pdf': No such file or directory
+---A86----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber133.pdf': No such file or directory
+---A87----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber134.pdf': No such file or directory
+---A88----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber135.pdf': No such file or directory
+---A89----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber136.pdf': No such file or directory
+---A8----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber137.pdf': No such file or directory
+---A90----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber138.pdf': No such file or directory
+---A91----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber139.pdf': No such file or directory
+---A92----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber140.pdf': No such file or directory
+---A93----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber141.pdf': No such file or directory
+---A94----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber142.pdf': No such file or directory
+---A95----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber143.pdf': No such file or directory
+---A96----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber144.pdf': No such file or directory
+---A97----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber145.pdf': No such file or directory
+---A98----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber146.pdf': No such file or directory
+---A99----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber147.pdf': No such file or directory
+---A9----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber148.pdf': No such file or directory
+./createSkeleton.sh: line 5: =B: command not found
+---B100----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---B101----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---B102----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---B103----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---B104----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---B105----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+---B106----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber7.pdf': No such file or directory
+---B107----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber8.pdf': No such file or directory
+---B108----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber9.pdf': No such file or directory
+---B109----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber10.pdf': No such file or directory
+---B10----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber11.pdf': No such file or directory
+---B110----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber12.pdf': No such file or directory
+---B111----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber13.pdf': No such file or directory
+---B112----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber14.pdf': No such file or directory
+---B113----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber15.pdf': No such file or directory
+---B114----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber16.pdf': No such file or directory
+---B115----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber17.pdf': No such file or directory
+---B116----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber18.pdf': No such file or directory
+---B117----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber19.pdf': No such file or directory
+---B118----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber20.pdf': No such file or directory
+---B119----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber21.pdf': No such file or directory
+---B11----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber22.pdf': No such file or directory
+---B120----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber23.pdf': No such file or directory
+---B121----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber24.pdf': No such file or directory
+---B122----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber25.pdf': No such file or directory
+---B123----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber26.pdf': No such file or directory
+---B124----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber27.pdf': No such file or directory
+---B125----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber28.pdf': No such file or directory
+---B126----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber29.pdf': No such file or directory
+---B127----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber30.pdf': No such file or directory
+---B128----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber31.pdf': No such file or directory
+---B129----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber32.pdf': No such file or directory
+---B12----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber33.pdf': No such file or directory
+---B130----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber34.pdf': No such file or directory
+---B131----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber35.pdf': No such file or directory
+---B132----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber36.pdf': No such file or directory
+---B133----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber37.pdf': No such file or directory
+---B134----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber38.pdf': No such file or directory
+---B135----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber39.pdf': No such file or directory
+---B136----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber40.pdf': No such file or directory
+---B137----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber41.pdf': No such file or directory
+---B138----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber42.pdf': No such file or directory
+---B139----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber43.pdf': No such file or directory
+---B13----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber44.pdf': No such file or directory
+---B140----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber45.pdf': No such file or directory
+---B141----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber46.pdf': No such file or directory
+---B142----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber47.pdf': No such file or directory
+---B143----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber48.pdf': No such file or directory
+---B144----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber49.pdf': No such file or directory
+---B145----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber50.pdf': No such file or directory
+---B146----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber51.pdf': No such file or directory
+---B147----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber52.pdf': No such file or directory
+---B148----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber53.pdf': No such file or directory
+---B149----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber54.pdf': No such file or directory
+---B14----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber55.pdf': No such file or directory
+---B150----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber56.pdf': No such file or directory
+---B151----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber57.pdf': No such file or directory
+---B152----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber58.pdf': No such file or directory
+---B153----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber59.pdf': No such file or directory
+---B154----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber60.pdf': No such file or directory
+---B155----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber61.pdf': No such file or directory
+---B156----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber62.pdf': No such file or directory
+---B157----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber63.pdf': No such file or directory
+---B158----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber64.pdf': No such file or directory
+---B159----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber65.pdf': No such file or directory
+---B15----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber66.pdf': No such file or directory
+---B160----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber67.pdf': No such file or directory
+---B161----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber68.pdf': No such file or directory
+---B162----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber69.pdf': No such file or directory
+---B163----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber70.pdf': No such file or directory
+---B164----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber71.pdf': No such file or directory
+---B165----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber72.pdf': No such file or directory
+---B166----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber73.pdf': No such file or directory
+---B167----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber74.pdf': No such file or directory
+---B168----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber75.pdf': No such file or directory
+---B169----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber76.pdf': No such file or directory
+---B16----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber77.pdf': No such file or directory
+---B170----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber78.pdf': No such file or directory
+---B171----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber79.pdf': No such file or directory
+---B172----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber80.pdf': No such file or directory
+---B173----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber81.pdf': No such file or directory
+---B174----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber82.pdf': No such file or directory
+---B175----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber83.pdf': No such file or directory
+---B176----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber84.pdf': No such file or directory
+---B177----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber85.pdf': No such file or directory
+---B178----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber86.pdf': No such file or directory
+---B179----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber87.pdf': No such file or directory
+---B17----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber88.pdf': No such file or directory
+---B180----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber89.pdf': No such file or directory
+---B181----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber90.pdf': No such file or directory
+---B182----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber91.pdf': No such file or directory
+---B183----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber92.pdf': No such file or directory
+---B184----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber93.pdf': No such file or directory
+---B185----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber94.pdf': No such file or directory
+---B186----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber95.pdf': No such file or directory
+---B187----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber96.pdf': No such file or directory
+---B188----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber97.pdf': No such file or directory
+---B189----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber98.pdf': No such file or directory
+---B18----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber99.pdf': No such file or directory
+---B190----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber100.pdf': No such file or directory
+---B191----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber101.pdf': No such file or directory
+---B192----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber102.pdf': No such file or directory
+---B193----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber103.pdf': No such file or directory
+---B194----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber104.pdf': No such file or directory
+---B195----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber105.pdf': No such file or directory
+---B19----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber106.pdf': No such file or directory
+---B1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber107.pdf': No such file or directory
+---B20----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber108.pdf': No such file or directory
+---B21----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber109.pdf': No such file or directory
+---B22----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber110.pdf': No such file or directory
+---B23----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber111.pdf': No such file or directory
+---B24----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber112.pdf': No such file or directory
+---B25----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber113.pdf': No such file or directory
+---B26----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber114.pdf': No such file or directory
+---B27----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber115.pdf': No such file or directory
+---B28----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber116.pdf': No such file or directory
+---B29----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber117.pdf': No such file or directory
+---B2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber118.pdf': No such file or directory
+---B30----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber119.pdf': No such file or directory
+---B31----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber120.pdf': No such file or directory
+---B32----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber121.pdf': No such file or directory
+---B33----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber122.pdf': No such file or directory
+---B34----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber123.pdf': No such file or directory
+---B35----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber124.pdf': No such file or directory
+---B36----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber125.pdf': No such file or directory
+---B37----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber126.pdf': No such file or directory
+---B38----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber127.pdf': No such file or directory
+---B39----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber128.pdf': No such file or directory
+---B3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber129.pdf': No such file or directory
+---B40----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber130.pdf': No such file or directory
+---B41----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber131.pdf': No such file or directory
+---B42----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber132.pdf': No such file or directory
+---B43----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber133.pdf': No such file or directory
+---B44----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber134.pdf': No such file or directory
+---B45----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber135.pdf': No such file or directory
+---B46----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber136.pdf': No such file or directory
+---B47----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber137.pdf': No such file or directory
+---B48----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber138.pdf': No such file or directory
+---B49----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber139.pdf': No such file or directory
+---B4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber140.pdf': No such file or directory
+---B50----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber141.pdf': No such file or directory
+---B51----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber142.pdf': No such file or directory
+---B52----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber143.pdf': No such file or directory
+---B53----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber144.pdf': No such file or directory
+---B54----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber145.pdf': No such file or directory
+---B55----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber146.pdf': No such file or directory
+---B56----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber147.pdf': No such file or directory
+---B57----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber148.pdf': No such file or directory
+---B58----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber149.pdf': No such file or directory
+---B59----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber150.pdf': No such file or directory
+---B5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber151.pdf': No such file or directory
+---B60----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber152.pdf': No such file or directory
+---B61----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber153.pdf': No such file or directory
+---B62----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber154.pdf': No such file or directory
+---B63----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber155.pdf': No such file or directory
+---B64----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber156.pdf': No such file or directory
+---B65----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber157.pdf': No such file or directory
+---B66----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber158.pdf': No such file or directory
+---B67----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber159.pdf': No such file or directory
+---B68----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber160.pdf': No such file or directory
+---B69----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber161.pdf': No such file or directory
+---B6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber162.pdf': No such file or directory
+---B70----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber163.pdf': No such file or directory
+---B71----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber164.pdf': No such file or directory
+---B72----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber165.pdf': No such file or directory
+---B73----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber166.pdf': No such file or directory
+---B74----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber167.pdf': No such file or directory
+---B75----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber168.pdf': No such file or directory
+---B76----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber169.pdf': No such file or directory
+---B77----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber170.pdf': No such file or directory
+---B78----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber171.pdf': No such file or directory
+---B79----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber172.pdf': No such file or directory
+---B7----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber173.pdf': No such file or directory
+---B80----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber174.pdf': No such file or directory
+---B81----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber175.pdf': No such file or directory
+---B82----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber176.pdf': No such file or directory
+---B83----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber177.pdf': No such file or directory
+---B84----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber178.pdf': No such file or directory
+---B85----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber179.pdf': No such file or directory
+---B86----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber180.pdf': No such file or directory
+---B87----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber181.pdf': No such file or directory
+---B88----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber182.pdf': No such file or directory
+---B89----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber183.pdf': No such file or directory
+---B8----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber184.pdf': No such file or directory
+---B90----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber185.pdf': No such file or directory
+---B91----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber186.pdf': No such file or directory
+---B92----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber187.pdf': No such file or directory
+---B93----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber188.pdf': No such file or directory
+---B94----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber189.pdf': No such file or directory
+---B95----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber190.pdf': No such file or directory
+---B96----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber191.pdf': No such file or directory
+---B97----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber192.pdf': No such file or directory
+---B98----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber193.pdf': No such file or directory
+---B99----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber194.pdf': No such file or directory
+---B9----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber195.pdf': No such file or directory
+./createSkeleton.sh: line 5: =C: command not found
+---C10----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---C11----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---C12----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---C13----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---C14----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---C15----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+---C16----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber7.pdf': No such file or directory
+---C17----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber8.pdf': No such file or directory
+---C18----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber9.pdf': No such file or directory
+---C19----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber10.pdf': No such file or directory
+---C1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber11.pdf': No such file or directory
+---C20----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber12.pdf': No such file or directory
+---C21----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber13.pdf': No such file or directory
+---C22----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber14.pdf': No such file or directory
+---C23----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber15.pdf': No such file or directory
+---C24----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber16.pdf': No such file or directory
+---C25----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber17.pdf': No such file or directory
+---C26----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber18.pdf': No such file or directory
+---C27----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber19.pdf': No such file or directory
+---C28----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber20.pdf': No such file or directory
+---C29----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber21.pdf': No such file or directory
+---C2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber22.pdf': No such file or directory
+---C30----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber23.pdf': No such file or directory
+---C31----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber24.pdf': No such file or directory
+---C32----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber25.pdf': No such file or directory
+---C33----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber26.pdf': No such file or directory
+---C34----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber27.pdf': No such file or directory
+---C35----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber28.pdf': No such file or directory
+---C36----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber29.pdf': No such file or directory
+---C37----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber30.pdf': No such file or directory
+---C38----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber31.pdf': No such file or directory
+---C39----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber32.pdf': No such file or directory
+---C3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber33.pdf': No such file or directory
+---C40----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber34.pdf': No such file or directory
+---C41----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber35.pdf': No such file or directory
+---C42----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber36.pdf': No such file or directory
+---C43----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber37.pdf': No such file or directory
+---C44----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber38.pdf': No such file or directory
+---C45----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber39.pdf': No such file or directory
+---C46----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber40.pdf': No such file or directory
+---C47----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber41.pdf': No such file or directory
+---C4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber42.pdf': No such file or directory
+---C5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber43.pdf': No such file or directory
+---C6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber44.pdf': No such file or directory
+---C7----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber45.pdf': No such file or directory
+---C8----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber46.pdf': No such file or directory
+---C9----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber47.pdf': No such file or directory
+./createSkeleton.sh: line 5: =D: command not found
+---D10----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---D11----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---D12----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---D13----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---D14----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---D15----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+---D16----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber7.pdf': No such file or directory
+---D17----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber8.pdf': No such file or directory
+---D18----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber9.pdf': No such file or directory
+---D19----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber10.pdf': No such file or directory
+---D1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber11.pdf': No such file or directory
+---D20----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber12.pdf': No such file or directory
+---D21----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber13.pdf': No such file or directory
+---D22----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber14.pdf': No such file or directory
+---D23----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber15.pdf': No such file or directory
+---D24----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber16.pdf': No such file or directory
+---D25----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber17.pdf': No such file or directory
+---D26----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber18.pdf': No such file or directory
+---D27----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber19.pdf': No such file or directory
+---D28----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber20.pdf': No such file or directory
+---D29----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber21.pdf': No such file or directory
+---D2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber22.pdf': No such file or directory
+---D30----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber23.pdf': No such file or directory
+---D31----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber24.pdf': No such file or directory
+---D32----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber25.pdf': No such file or directory
+---D33----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber26.pdf': No such file or directory
+---D34----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber27.pdf': No such file or directory
+---D35----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber28.pdf': No such file or directory
+---D36----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber29.pdf': No such file or directory
+---D37----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber30.pdf': No such file or directory
+---D38----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber31.pdf': No such file or directory
+---D39----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber32.pdf': No such file or directory
+---D3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber33.pdf': No such file or directory
+---D40----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber34.pdf': No such file or directory
+---D41----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber35.pdf': No such file or directory
+---D42----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber36.pdf': No such file or directory
+---D43----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber37.pdf': No such file or directory
+---D44----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber38.pdf': No such file or directory
+---D45----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber39.pdf': No such file or directory
+---D46----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber40.pdf': No such file or directory
+---D47----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber41.pdf': No such file or directory
+---D48----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber42.pdf': No such file or directory
+---D49----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber43.pdf': No such file or directory
+---D4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber44.pdf': No such file or directory
+---D50----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber45.pdf': No such file or directory
+---D51----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber46.pdf': No such file or directory
+---D5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber47.pdf': No such file or directory
+---D6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber48.pdf': No such file or directory
+---D7----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber49.pdf': No such file or directory
+---D8----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber50.pdf': No such file or directory
+---D9----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber51.pdf': No such file or directory
+./createSkeleton.sh: line 5: =E: command not found
+---E10----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---E11----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---E12----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---E13----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---E14----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---E15----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+---E16----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber7.pdf': No such file or directory
+---E17----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber8.pdf': No such file or directory
+---E18----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber9.pdf': No such file or directory
+---E19----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber10.pdf': No such file or directory
+---E1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber11.pdf': No such file or directory
+---E20----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber12.pdf': No such file or directory
+---E21----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber13.pdf': No such file or directory
+---E22----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber14.pdf': No such file or directory
+---E23----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber15.pdf': No such file or directory
+---E24----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber16.pdf': No such file or directory
+---E25----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber17.pdf': No such file or directory
+---E26----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber18.pdf': No such file or directory
+---E27----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber19.pdf': No such file or directory
+---E28----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber20.pdf': No such file or directory
+---E29----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber21.pdf': No such file or directory
+---E2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber22.pdf': No such file or directory
+---E30----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber23.pdf': No such file or directory
+---E31----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber24.pdf': No such file or directory
+---E32----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber25.pdf': No such file or directory
+---E33----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber26.pdf': No such file or directory
+---E34----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber27.pdf': No such file or directory
+---E35----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber28.pdf': No such file or directory
+---E36----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber29.pdf': No such file or directory
+---E37----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber30.pdf': No such file or directory
+---E38----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber31.pdf': No such file or directory
+---E39----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber32.pdf': No such file or directory
+---E3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber33.pdf': No such file or directory
+---E40----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber34.pdf': No such file or directory
+---E41----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber35.pdf': No such file or directory
+---E42----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber36.pdf': No such file or directory
+---E43----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber37.pdf': No such file or directory
+---E44----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber38.pdf': No such file or directory
+---E45----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber39.pdf': No such file or directory
+---E46----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber40.pdf': No such file or directory
+---E47----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber41.pdf': No such file or directory
+---E48----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber42.pdf': No such file or directory
+---E49----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber43.pdf': No such file or directory
+---E4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber44.pdf': No such file or directory
+---E50----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber45.pdf': No such file or directory
+---E51----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber46.pdf': No such file or directory
+---E52----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber47.pdf': No such file or directory
+---E53----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber48.pdf': No such file or directory
+---E54----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber49.pdf': No such file or directory
+---E55----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber50.pdf': No such file or directory
+---E56----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber51.pdf': No such file or directory
+---E57----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber52.pdf': No such file or directory
+---E58----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber53.pdf': No such file or directory
+---E5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber54.pdf': No such file or directory
+---E6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber55.pdf': No such file or directory
+---E7----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber56.pdf': No such file or directory
+---E8----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber57.pdf': No such file or directory
+---E9----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber58.pdf': No such file or directory
+./createSkeleton.sh: line 5: =F: command not found
+---F1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---F2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---F3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---F4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---F5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---F6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+./createSkeleton.sh: line 5: =G: command not found
+---G100----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber1.pdf': No such file or directory
+---G10----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber2.pdf': No such file or directory
+---G11----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber3.pdf': No such file or directory
+---G12----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber4.pdf': No such file or directory
+---G13----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber5.pdf': No such file or directory
+---G14----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber6.pdf': No such file or directory
+---G15----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber7.pdf': No such file or directory
+---G16----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber8.pdf': No such file or directory
+---G17----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber9.pdf': No such file or directory
+---G18----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber10.pdf': No such file or directory
+---G19----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber11.pdf': No such file or directory
+---G1----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber12.pdf': No such file or directory
+---G20----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber13.pdf': No such file or directory
+---G21----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber14.pdf': No such file or directory
+---G22----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber15.pdf': No such file or directory
+---G23----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber16.pdf': No such file or directory
+---G24----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber17.pdf': No such file or directory
+---G25----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber18.pdf': No such file or directory
+---G26----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber19.pdf': No such file or directory
+---G27----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber20.pdf': No such file or directory
+---G28----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber21.pdf': No such file or directory
+---G29----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber22.pdf': No such file or directory
+---G2----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber23.pdf': No such file or directory
+---G30----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber24.pdf': No such file or directory
+---G31----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber25.pdf': No such file or directory
+---G32----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber26.pdf': No such file or directory
+---G33----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber27.pdf': No such file or directory
+---G34----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber28.pdf': No such file or directory
+---G35----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber29.pdf': No such file or directory
+---G36----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber30.pdf': No such file or directory
+---G37----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber31.pdf': No such file or directory
+---G38----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber32.pdf': No such file or directory
+---G39----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber33.pdf': No such file or directory
+---G3----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber34.pdf': No such file or directory
+---G40----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber35.pdf': No such file or directory
+---G41----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber36.pdf': No such file or directory
+---G42----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber37.pdf': No such file or directory
+---G43----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber38.pdf': No such file or directory
+---G44----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber39.pdf': No such file or directory
+---G45----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber40.pdf': No such file or directory
+---G46----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber41.pdf': No such file or directory
+---G47----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber42.pdf': No such file or directory
+---G48----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber43.pdf': No such file or directory
+---G49----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber44.pdf': No such file or directory
+---G4----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber45.pdf': No such file or directory
+---G50----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber46.pdf': No such file or directory
+---G51----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber47.pdf': No such file or directory
+---G52----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber48.pdf': No such file or directory
+---G53----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber49.pdf': No such file or directory
+---G54----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber50.pdf': No such file or directory
+---G55----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber51.pdf': No such file or directory
+---G56----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber52.pdf': No such file or directory
+---G57----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber53.pdf': No such file or directory
+---G58----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber54.pdf': No such file or directory
+---G59----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber55.pdf': No such file or directory
+---G5----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber56.pdf': No such file or directory
+---G60----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber57.pdf': No such file or directory
+---G61----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber58.pdf': No such file or directory
+---G62----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber59.pdf': No such file or directory
+---G63----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber60.pdf': No such file or directory
+---G64----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber61.pdf': No such file or directory
+---G65----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber62.pdf': No such file or directory
+---G66----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber63.pdf': No such file or directory
+---G67----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber64.pdf': No such file or directory
+---G68----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber65.pdf': No such file or directory
+---G69----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber66.pdf': No such file or directory
+---G6----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber67.pdf': No such file or directory
+---G70----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber68.pdf': No such file or directory
+---G71----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber69.pdf': No such file or directory
+---G72----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber70.pdf': No such file or directory
+---G73----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber71.pdf': No such file or directory
+---G74----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber72.pdf': No such file or directory
+---G75----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber73.pdf': No such file or directory
+---G76----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber74.pdf': No such file or directory
+---G77----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber75.pdf': No such file or directory
+---G78----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber76.pdf': No such file or directory
+---G79----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber77.pdf': No such file or directory
+---G7----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber78.pdf': No such file or directory
+---G80----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber79.pdf': No such file or directory
+---G81----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber80.pdf': No such file or directory
+---G82----
+./createSkeleton.sh: line 21: pdflatex: command not found
+mv: cannot stat 'pageNumber81.pdf': No such file or directory
+---G83----

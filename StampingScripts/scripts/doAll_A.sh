@@ -1,6 +1,6 @@
 oldpageNo=0
 cd test
-./createSkeleton.sh $1 #$pageNo
+./createSkeleton.sh $1 A #$pageNo
 pageNo=`ls sourcePdf/*.pdf|wc -l`
 pageNo=`expr $oldpageNo + $pageNo`
 pageNo=`expr $pageNo \\* 2`

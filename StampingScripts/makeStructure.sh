@@ -1,7 +1,7 @@
 #!/bin/sh
 rm -rf Stamping
 mkdir Stamping
-volume=$10
+volume=68
 
 cp -rf scripts/* Stamping/
 cp -rf dirStructure Stamping/test
@@ -29,7 +29,7 @@ cp Stamping/$volume/T*.pdf Stamping/testT/sourcePdf/
 echo "Copying done"
 
 cd Stamping
-./execute $1 $2 $3 $4 $5 $6 $7 $8 $9 $10
+./execute.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 $10
 
 cd test
 ./more.sh
